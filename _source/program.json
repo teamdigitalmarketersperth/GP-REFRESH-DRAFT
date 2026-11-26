@@ -1,0 +1,418 @@
+[
+ {
+  "n": 1,
+  "day": "Saturday",
+  "time": "8:30 AM - 10:30 AM",
+  "title": "Respiratory & Cardiovascular Refresh",
+  "note": "",
+  "topics": [
+   {
+    "topic": "Lung Cancer",
+    "talk": "Lung Cancer Screening"
+   },
+   {
+    "topic": "Asthma",
+    "talk": "Asthma guidelines update (Adults)"
+   },
+   {
+    "topic": "Sleep Apnoea",
+    "talk": "How good is CPAP?"
+   },
+   {
+    "topic": "COPD",
+    "talk": "Steroid use in COPD"
+   },
+   {
+    "topic": "Arrhythmia",
+    "talk": "Infrequent, episodic palpitations"
+   },
+   {
+    "topic": "Syncope",
+    "talk": "NASA lean test"
+   },
+   {
+    "topic": "Hypertension",
+    "talk": "Hypertension in the over 80 yo"
+   },
+   {
+    "topic": "Dyslipidaemia",
+    "talk": "Lifestyle: what works for dyslipidaemia?"
+   },
+   {
+    "topic": "Chronic Heart Failure",
+    "talk": "Monitoring after new CHF medications"
+   },
+   {
+    "topic": "Transient Ischaemia (TIA)",
+    "talk": "TIA yesterday, what now?"
+   }
+  ]
+ },
+ {
+  "n": 2,
+  "day": "Saturday",
+  "time": "11:00 AM - 12:30 PM",
+  "title": "Endocrine, Geriatric & GI Refresh",
+  "note": "",
+  "topics": [
+   {
+    "topic": "Visual Disorders",
+    "talk": "Optimising a Quick Eye Examination"
+   },
+   {
+    "topic": "Eye Lid Conditions",
+    "talk": "Blepharitis"
+   },
+   {
+    "topic": "Red Eye",
+    "talk": "Beware the Unilateral Red Eye"
+   },
+   {
+    "topic": "Thyroid Disorders",
+    "talk": "Thyroid lesions"
+   },
+   {
+    "topic": "Haematological Conditions",
+    "talk": "Iron Infusion"
+   },
+   {
+    "topic": "Malignancy",
+    "talk": "Chemotherapy Considerations for GPs"
+   },
+   {
+    "topic": "Dementia",
+    "talk": "Dementia: supporting carers"
+   },
+   {
+    "topic": "Irritable Bowel Syndrome",
+    "talk": "IBS: evidence-based diet"
+   },
+   {
+    "topic": "Upper GI Conditions",
+    "talk": "Eradicating helicobacter"
+   },
+   {
+    "topic": "Lower GI Conditions",
+    "talk": "Managing constipation"
+   },
+   {
+    "topic": "Breast Conditions",
+    "talk": "Breast Pain"
+   }
+  ]
+ },
+ {
+  "n": 3,
+  "day": "Saturday",
+  "time": "1:30 PM - 3:00 PM",
+  "title": "Bones, Joints & Pain Refresh",
+  "note": "",
+  "topics": [
+   {
+    "topic": "PMR and the Vasculitides",
+    "talk": "Polymyalgia rheumatica"
+   },
+   {
+    "topic": "Arthritis",
+    "talk": "What do we need to know about MABs?"
+   },
+   {
+    "topic": "Peripheral Arterial Disease",
+    "talk": "Claudication"
+   },
+   {
+    "topic": "Peripheral Venous Disease",
+    "talk": "Chronic ulcers"
+   },
+   {
+    "topic": "Upper Limb Joint Pain",
+    "talk": "Wrist conditions"
+   },
+   {
+    "topic": "Lower Limb Joint Pain",
+    "talk": "Knee pain"
+   },
+   {
+    "topic": "Acute Orthopaedics",
+    "talk": "Metatarsal issues"
+   },
+   {
+    "topic": "Osteoporosis",
+    "talk": "Denosumab in osteoporosis"
+   },
+   {
+    "topic": "Back Pain",
+    "talk": "Red flags in back pain"
+   },
+   {
+    "topic": "Pain Management",
+    "talk": "Chronic pain: opioid evidence"
+   }
+  ]
+ },
+ {
+  "n": 4,
+  "day": "Saturday",
+  "time": "3:30 PM - 5:00 PM",
+  "title": "Psychiatry, Oncology & Neurology",
+  "note": "",
+  "topics": [
+   {
+    "topic": "Counselling Skills",
+    "talk": "Motivational interviewing"
+   },
+   {
+    "topic": "ADHD",
+    "talk": "Adult ADHD: executive function strategies"
+   },
+   {
+    "topic": "Mood Disorder",
+    "talk": "Newer medications for depression"
+   },
+   {
+    "topic": "Drug and Alcohol Problems",
+    "talk": "Medicinal cannabis: where's the evidence?"
+   },
+   {
+    "topic": "The Elderly Patient",
+    "talk": "Deprescribing"
+   },
+   {
+    "topic": "Dementia",
+    "talk": "Supporting Carers"
+   },
+   {
+    "topic": "Haematological Conditions",
+    "talk": "Iron infusion"
+   },
+   {
+    "topic": "Malignancy",
+    "talk": "Chemotherapy: considerations for GPs"
+   },
+   {
+    "topic": "Neurological Dilemmas",
+    "talk": "Tremors"
+   },
+   {
+    "topic": "Headache",
+    "talk": "Migraine prophylaxis"
+   },
+   {
+    "topic": "Fits, Faints and Funny Turns",
+    "talk": "After the first seizure (before the first neurology appointment)"
+   },
+   {
+    "topic": "Palliative Care",
+    "talk": "Palliative Care: not just pain"
+   }
+  ]
+ },
+ {
+  "n": 5,
+  "day": "Sunday",
+  "time": "9:00 AM - 10:30 AM",
+  "title": "Women's and Men's Health",
+  "note": " - Conference Welcome & Keynote Speaker",
+  "topics": [
+   {
+    "topic": "Inguinoscrotal Conditions",
+    "talk": "Inguinal hernias"
+   },
+   {
+    "topic": "Penile Disorders",
+    "talk": "Erectile dysfunction"
+   },
+   {
+    "topic": "Prostate Disorders",
+    "talk": "Male Patient Engagement"
+   },
+   {
+    "topic": "Men's Mental Health",
+    "talk": "Male Patient Engagement"
+   },
+   {
+    "topic": "Pelvic Pain",
+    "talk": "Muscular causes of chronic pelvic pain"
+   },
+   {
+    "topic": "Perimenopause",
+    "talk": "Perimenopause: the place of testosterone"
+   },
+   {
+    "topic": "Abnormal Uterine Bleeding",
+    "talk": "Managing adolescent menorrhagia"
+   },
+   {
+    "topic": "Endometriosis",
+    "talk": "Diagnosis of Endometriosis"
+   },
+   {
+    "topic": "Renal Conditions",
+    "talk": "CKD: When to Refer"
+   },
+   {
+    "topic": "PCOS",
+    "talk": "Diagnosis of PCOS"
+   },
+   {
+    "topic": "Breast Conditions",
+    "talk": "Breast pain"
+   },
+   {
+    "topic": "Unplanned Pregnancy",
+    "talk": "MTOP"
+   },
+   {
+    "topic": "Pregnancy Management",
+    "talk": "Early pregnancy screening"
+   }
+  ]
+ },
+ {
+  "n": 6,
+  "day": "Sunday",
+  "time": "11:00 AM - 12:30 PM",
+  "title": "Emergencies, Ophthalmology & ENT",
+  "note": "",
+  "topics": [
+   {
+    "topic": "Acute Breathlessness",
+    "talk": "Anaphylaxis"
+   },
+   {
+    "topic": "Collapsed Patient",
+    "talk": "Collapsed patient: common differentials"
+   },
+   {
+    "topic": "Lacerations",
+    "talk": "Lacerations: alternatives to simple interupted sutures"
+   },
+   {
+    "topic": "T2D Lifestyle Management",
+    "talk": "Lifestyle Management in T2D – Where to Spend Consultation Time"
+   },
+   {
+    "topic": "T2D Medical Management",
+    "talk": "Hard-to-manage hyperglycaemia"
+   },
+   {
+    "topic": "Obesity",
+    "talk": "New Medical Management"
+   },
+   {
+    "topic": "Visual Disorders",
+    "talk": "Optimising a quick eye examination"
+   },
+   {
+    "topic": "Eye Lid Conditions",
+    "talk": "Blepharitis"
+   },
+   {
+    "topic": "Red Eye",
+    "talk": "Beware the unilateral red eye"
+   },
+   {
+    "topic": "Ear Conditions",
+    "talk": "Ear canal conditions"
+   },
+   {
+    "topic": "Nose Conditions",
+    "talk": "Rhinosinusitis"
+   },
+   {
+    "topic": "Oropharangeal Conditions",
+    "talk": "Salivary glands"
+   }
+  ]
+ },
+ {
+  "n": 7,
+  "day": "Sunday",
+  "time": "1:30 PM - 3:00 PM",
+  "title": "Logistics of General Practice",
+  "note": "",
+  "topics": [
+   {
+    "topic": "Pathology Interpretation",
+    "talk": "Interpreting LFTs"
+   },
+   {
+    "topic": "Rational use of Investigations",
+    "talk": "Abdominal pain: which radiology test?"
+   },
+   {
+    "topic": "Optimising AI in GP",
+    "talk": "Training your AI scribe"
+   },
+   {
+    "topic": "Optimising AI in GP",
+    "talk": "Using AI to improve billings"
+   },
+   {
+    "topic": "MBS Updates",
+    "talk": "What's new in the MBS?"
+   },
+   {
+    "topic": "Longevity",
+    "talk": "Evidence Behind Peptides in Longevity"
+   },
+   {
+    "topic": "Medical Defence Organisation",
+    "talk": "How to avoid needing your MDO!"
+   },
+   {
+    "topic": "Guest Presenter",
+    "talk": "Professional Services Review PSR"
+   }
+  ]
+ },
+ {
+  "n": 8,
+  "day": "Sunday",
+  "time": "3:30 PM - 5:00 PM",
+  "title": "Dermatology & Paediatrics",
+  "note": "",
+  "topics": [
+   {
+    "topic": "Pruritic Conditions",
+    "talk": "Neurodermatitis"
+   },
+   {
+    "topic": "Lumps and Bumps",
+    "talk": "Cysts"
+   },
+   {
+    "topic": "Skin Cancer",
+    "talk": "Non-melanoma skin cancer (picture-based)"
+   },
+   {
+    "topic": "Skin Rashes",
+    "talk": "Common childhood rashes (picture-based)"
+   },
+   {
+    "topic": "Hair Conditions",
+    "talk": "Hair loss"
+   },
+   {
+    "topic": "Nail Conditions",
+    "talk": "Onychogryphosis"
+   },
+   {
+    "topic": "Common Childhood Infections",
+    "talk": "Protracted bacterial bronchitis (paeds)"
+   },
+   {
+    "topic": "Conditions of Infancy",
+    "talk": "Indications for changing formula (infants)"
+   },
+   {
+    "topic": "Neurodiversity",
+    "talk": "Supporting families living with ASD"
+   },
+   {
+    "topic": "Adolescent Health",
+    "talk": "SSRIs in adolescent anxiety"
+   }
+  ]
+ }
+]
